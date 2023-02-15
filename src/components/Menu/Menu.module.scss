@@ -1,0 +1,25 @@
+.menu {
+  align-items: center;
+  // border :1px solid red;
+  display: grid;
+  max-width: 1136px;
+  min-width: 330px;
+  grid-template-columns: 150px 393px auto;
+  grid-template-rows: 115px; 
+  width: 100%;
+  @media screen and (max-width: 1440px) {
+    grid-template-columns: 200px 393px auto;
+  }
+
+  @media screen and (max-width: 768px) {
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 72px;
+  }
+  @media screen and (max-width: 360px) {
+    justify-content: space-around;
+    min-width: 360px;
+    flex-direction: column;
+  }
+
+
+}

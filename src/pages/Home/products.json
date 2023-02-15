@@ -1,0 +1,38 @@
+[
+  {
+    "img": "/src/assets/products/img1.png",
+    "nameProduct": "Capacete StarWars",
+    "priceProduct": "R$ 69.90",
+    "urlProduto": "#teste.com.br"
+  },
+  {
+    "img": "/src/assets/products/img2.png",
+    "nameProduct": "Capacete StarWars",
+    "priceProduct": "R$ 69.90",
+    "urlProduto": "#teste.com.br"
+  },
+  {
+    "img": "/src/assets/products/img1.png",
+    "nameProduct": "Capacete StarWars",
+    "priceProduct": "R$ 69.90",
+    "urlProduto": "#teste.com.br"
+  },
+  {
+    "img": "/src/assets/products/img2.png",
+    "nameProduct": "Capacete StarWars",
+    "priceProduct": "R$ 69.90",
+    "urlProduto": "#teste.com.br"
+  },
+  {
+    "img": "/src/assets/products/img1.png",
+    "nameProduct": "Capacete StarWars",
+    "priceProduct": "R$ 69.90",
+    "urlProduto": "#teste.com.br"
+  },
+  {
+    "img": "/src/assets/products/img2.png",
+    "nameProduct": "Capacete StarWars",
+    "priceProduct": "R$ 69.90",
+    "urlProduto": "#teste.com.br"
+  }
+]

@@ -1,0 +1,20 @@
+.botao{
+    background: #FFFFFF;
+    color: #2A7AE4;
+    border-color: #2A7AE4;
+    width: 166px;
+    height: 40px;
+    border: 1px solid;
+    justify-self: end;
+
+    @media screen and (max-width: 638px) {
+        order: 2;
+        justify-self: auto;
+    }
+}
+
+.blue{
+    background: #2A7AE4;
+    color: #FFFFFF;
+    border-color: #2A7AE4;
+}

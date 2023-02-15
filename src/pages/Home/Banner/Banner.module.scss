@@ -1,0 +1,30 @@
+.banner {
+  background-image: url("/src/assets/banner.jpg");
+  height: 192px;
+  width: 100%;
+  min-width: 360px;
+  background-size: cover;
+  background-position: center;
+  max-width: 1440px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 32px;
+  margin-bottom: 16px;
+
+  @media screen and (min-width: 768px) {
+    height: 352px;
+    width: 100%;
+  }
+  div {
+    max-width: 1136px;
+    width: 100%;
+  }
+  div > h1,
+  div > p {
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: white;
+    font-family: "Raleway", sans-serif;
+  }
+}
